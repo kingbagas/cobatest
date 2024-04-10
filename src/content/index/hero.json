@@ -1,0 +1,29 @@
+{
+	"intro": {
+		"start": "const myName = () =>",
+		"end": "Hey there!, my name is",
+		"speed": 60,
+		"deletionSpeed": 80,
+		"wrapper": "h2",
+		"startDelay": 1000,
+		"deleteDelay": 3000,
+		"restartDelay": 12000
+	},
+	"header": {
+		"name": "Fauzi Bagaswara.",
+		"usp": "Passionate Full Stack Developer."
+	},
+	"paragraph": "From 18Years Old J Fullstack developer East Java . Jember    2years Contributes with Codes",
+	"buttons": {
+		"primary": {
+			"title": "Hire Me",
+			"url": "mailto:s.fauzibagaswara99@gmail.com",
+			"leaveSite": false
+		},
+		"secondary": {
+			"title": "LinkedIn",
+			"url": "https://www.linkedin.com/in/fauzi-bagaswara-5a7b29250/",
+			"leaveSite": "true"
+		}
+	}
+}

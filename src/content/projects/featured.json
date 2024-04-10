@@ -1,0 +1,47 @@
+[
+	{
+		"project": "Coming Soon",
+		"url": "EsemkaPgr5jember",
+		"repo": "Private Progress",
+		"descriptionTitle": "SMk PGRI 5 Jember",
+		"description": "Project Hampir selesai Menggunakan NEXT JS Dan Laravel",
+		"imageOptions": [],
+		"images": [
+			{ "key": "mock-stack", "hover": "right", "h": "150", "w": "450", "url": "/img/neurolink.png" }
+		],
+		"stack": [
+			{ "key": "python", "name": "Python", "type": "devicon" },
+			{ "key": "tensorflow", "name": "Tailwind", "type": "devicon" },
+			{ "key": "javascript", "name": "JavaScript", "type": "devicon" },
+			{ "key": "git", "name": "Git", "type": "devicon" },
+			{ "key": "js", "name": "JavaScript", "type": "devicon" },
+			{ "key": "typescript", "name": "TypeScript", "type": "devicon" },
+			{ "key": "cpp", "name": "Laravel", "type": "devicon" }
+		]
+	},
+	{
+		"project": "bagas.com",
+		"repo": "private",
+		"descriptionTitle": "Website Portfolio in Mobile WEbsite ",
+		"description": "Membuat Website dengan  Responsive   menggunakan NExt Js .",
+		"imageOptions": [
+			{ "key": "size", "value": "large" }
+		],
+		"images": [
+			{ "key": "portfolio", "hover": "left", "h": "100", "w": "350", "url": "/img/img-mock.png" }
+		],
+		"stack": [
+			{ "key": "nextjs", "name": "Next.js", "type": "devicon" },
+			{ "key": "react", "name": "React", "type": "devicon" },
+			{ "key": "nodejs", "name": "Node.js", "type": "devicon" },
+			{ "key": "javascript", "name": "JavaScript", "type": "devicon" },
+			{ "key": "typescript", "name": "Typescript", "type": "devicon" },
+			{ "key": "html5", "name": "HTML5", "type": "devicon" },
+			{ "key": "css3", "name": "CSS3", "type": "devicon" },
+			{ "key": "sass", "name": "SCSS", "type": "devicon" },
+			{ "key": "git", "name": "Git(Hub)", "type": "devicon" },
+			{ "key": "python", "name": "Python", "type": "devicon" },
+			{ "key": "django", "name": "Django", "type": "devicon" }
+		]
+	}
+]

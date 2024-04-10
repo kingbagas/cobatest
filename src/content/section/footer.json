@@ -1,0 +1,48 @@
+{
+	"Websites": [
+		{
+			"person": "bagas.com",
+			"link": "https://bagas.com/",
+			"note": ""
+		}
+	],
+	"links": [
+		{
+			"person": "Home",
+			"note": ""
+		},
+		{
+			"person": "Documentations",
+			"note": ""
+		},
+		{
+			"person": "Articles",
+			"note": ""
+		},
+		{
+			"person": "Projects",
+			"note": ""
+		},
+		{
+			"person": "Contact",
+			"link": "mailto:fauzibagaswara99@gmail.com",
+			"note": ""
+		}
+	],
+	"social": [
+		{
+			"icon": "medium"
+		},
+		{
+			"icon": "dev"
+		},
+		{
+			"url": "https://www.linkedin.com/in/fauzi-bagaswara-5a7b29250/",
+			"icon": "linkedin"
+		},
+		{
+			"url": "https://github.com/fauzi-bagaswara",
+			"icon": "github"
+		}
+	]
+}

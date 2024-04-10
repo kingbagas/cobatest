@@ -1,0 +1,23 @@
+[
+    {
+      "question": "Dimana Anda sedang belajar?",
+      "answer": "Saya Belajar di Smk Pgri 5 jember sebagai  teknologi informatika",
+      "isOpen": true
+    },
+    {
+      "question": "Apakah anda punya Project?",
+      "answer": "Ya, selain proyek dan hobi pribadi saya, saya telah mengerjakan beberapa proyek, baik secara individu maupun tim. Proyek-proyek ini memungkinkan saya menerapkan pengetahuan teoretis ke dalam skenario dunia nyata.",
+      "isOpen": false
+    },
+    {
+      "question": "ekstrakurikuler apa yang kamu punya dan aktivitas nya?",
+      "answer": "Saya memiliki ekstrakurikuler di sekolah serta ikut dalam kontribusi kode dengan rekan saya dalam membuat suatu website ",
+      "isOpen": false
+    },
+    {
+      "question": "bisakah kami merekrut anda ?",
+      "answer": "Ya Saya Siap Bersedia karena coding adalah hobby ku sehari sehari dapat meluangkan waktu ",
+      "isOpen": false
+    }
+  ]
+  

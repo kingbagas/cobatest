@@ -1,0 +1,24 @@
+{
+    "name": "Fauzi Bagaswara",
+    "logo": "",
+    "splashscreen": true,
+    
+    "autoupdatecheck": true,
+    "version": "1.0.6",
+    
+    "username": {
+    "github": "Fauzi Bagaswara",
+    "medium": "@Fauzi Bagaswara",
+    "dev": "Fauzi Bagaswara"
+    },
+    "repository": {
+    "owner": "Fauzi Bagaswara",
+    "name": "portfolio",
+    "repoName": "portfolio"
+    },
+    "portfolio": {
+    "fork_this": " project ",
+    "repo_html": "https://github.com/fauzibagaswaraw/portfolio.git",
+    "repo_api": "https://api.github.com/repos/fauzibagaswarawportfolio"
+    }
+    }
