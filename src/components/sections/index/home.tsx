@@ -27,14 +27,14 @@ export default function About() {
                             title="Softskills"
                             containerClass={about.container}
                             iconClass={about.icon}
-                            icon={['fas', 'user']}
+                            icon="fas" // Tambahkan properti 
                             copy={`Dengan keahlian di bidang desain dan teknis, saya adalah pengembang yang handal dalam menyediakan solusi berkualitas tinggi. Saya juga memiliki kemampuan kepemimpinan dan manajemen waktu yang kuat, serta mampu melakukan banyak tugas sekaligus. Saya selalu mencari peluang untuk memperluas pengetahuan saya dan tetap terkini dengan tren industri terbaru. Dengan semangat untuk menciptakan aplikasi yang inovatif dan efisien, saya berkomitmen untuk memberikan nilai tambah dan kesuksesan dalam setiap proyek pengembangan.`}
                         />
                         <CopyBlock
                             title="Development and Projects"
                             containerClass={about.container}
                             iconClass={about.icon}
-                            icon={['fas', 'code']}
+                            icon="fab" // Tambahkan properti icon 
                             copy={`Pengembangan dan pelaksanaan proyek adalah hasrat saya. Saya telah berhasil mengatasi tantanga serta  ide melalui pengkodean dan mengubah konsep menjadi solusi yang fungsional dan kuat. Dengan perencanaan yang cermat, alur kerja yang efisien, dan perhatian terhadap detail, saya memastikan keberhasilan penyampaian proyek, memenuhi tujuan, dan melampaui harapan klien yang diminta.`}
                         />
                     </div>
@@ -45,30 +45,30 @@ export default function About() {
                             title="Security and Privacy"
                             containerClass={about.container}
                             iconClass={about.icon}
-                            icon={['fas', 'shield-alt']}
+                            icon="fal" // Tambahkan properti icon 
                             copy={`Keamanan dan privasi adalah hal terpenting dalam pendekatan saya terhadap pembangunan. Saya memprioritaskan perlindungan data sensitif dan menerapkan langkah-langkah keamanan yang kuat. Dengan mengikuti praktik terbaik industri dan terus mengikuti perkembangan terkini mengenai ancaman yang muncul, saya memastikan bahwa informasi pengguna tetap terlindungi. Kepercayaan dan kerahasiaan adalah landasan pekerjaan saya.`}
                         />
                         <CopyBlock
                             title="Constant Learning and Improvements"
                             containerClass={about.container}
                             iconClass={about.icon}
-                            icon={['fas', 'book']}
+                            icon="far"
                             copy={`Saya memiliki rasa haus yang tak terpuaskan akan pengetahuan dan hasrat untuk terus belajar dan berkembang. Mengikuti tren industri terkini dan teknologi baru memungkinkan saya untuk tetap menjadi yang terdepan. Dengan secara aktif mencari tantangan baru dan memperluas keahlian saya, saya terus-menerus mendorong batas-batas kemampuan saya.`}
                         />
                         <BadgesBlock
                             title="Research and planning"
                             containerClass={about.container}
-                            list={methods}
+                            list={methods} // Definisikan atau impor variabel methods sebelumnya
                             fullContainer="fullContainer"
                             block="methods"
                             icon="fingerprint"
-                            copy={`Salah satu aspek yang paling menggembirakan dari proses kreatif saya adalah melakukan penelitian mendalam dan perencanaan yang cermat untuk proyek-proyek pembangunan. Dari Sistem Desain serta hingga Strategi Merek, saya menikmati kesempatan untuk mengeksplorasi berbagai titik kontak pengalaman pengguna yang interaktif. Terus berupaya untuk memperluas pengetahuan dan keterampilan saya, saya intropeksi diri dalam penelitian untuk tetap menjadi yang terdepan dalam tren industri bertujuan  untuk menciptakan pengalaman digital luar biasa yang melebihi ekspektasi dan memberikan hasil yang terukur.`}
-                        />
+                            copy={`Salah satu aspek yang paling menggembirakan dari proses kreatif saya adalah melakukan penelitian mendalam dan perencanaan yang cermat untuk proyek-proyek pembangunan. Dari Sistem Desain serta hingga Strategi Merek, saya menikmati kesempatan untuk mengeksplorasi berbagai titik kontak pengalaman pengguna yang interaktif. Terus berupaya untuk memperluas pengetahuan dan keterampilan saya, saya intropeksi diri dalam penelitian untuk tetap menjadi yang terdepan dalam tren industri bertujuan  untuk menciptakan pengalaman digital luar biasa yang melebihi ekspektasi dan memberikan hasil yang terukur.`} invertedColor={undefined} headerIcon={undefined}                        />
                     </div>
                 </section>
             </Container>
         </Section>
     );
+
 }
 
 const methods = [
